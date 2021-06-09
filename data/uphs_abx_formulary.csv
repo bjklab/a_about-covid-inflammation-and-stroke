@@ -1,0 +1,113 @@
+antibiotic_name,antibiotic_clean,antibiotic_class
+Abacavir (Ziagen),abacavir,r
+Abacavir/dolutegravir/lamivudine (Triumeq),abacavir/dolutegravir/lamivudine,r
+Abacavir/lamivudine (Epzicom),abacavir/lamivudine,r
+Abacavir/lamivudine/zidovudine (Trizivir),abacavir/lamivudine/zidovudine,r
+Acyclovir (Zorivax),acyclovir,v
+Adefovir (Hepsera),adefovir,v
+Amikacin (Amikin),amikacin,b
+Amoxicillin (Amoxil),amoxicillin,b
+Amoxicillin/clavulanate (Augmentin),amoxicillin/clavulanate,b
+Amphotericin B deoxycholate (Fungizone),amphotericin B deoxycholate,f
+Amphotericin B liposomal (Ambisome),amphotericin,f
+Ampicillin,ampicillin,b
+Ampicillin/sulbactam (Unasyn),ampicillin/sulbactam,b
+Artemether/lumefantrine (Coartem),artemether/lumefantrine,p
+Atazanavir (Reyataz),atazanavir,r
+Atovaquone (Mepron),atovaquone,f
+Azithromycin (Zithromax),azithromycin,b
+Aztreonam (Azactam),aztreonam,b
+Caspofungin (Cancidas),caspofungin,f
+Cefadroxil (Duricef),cefadroxil,b
+Cefazolin (Ancef),cefazolin,b
+Cefepime (Maxime),cefepime,b
+Cefoxitin (Mefoxin),cefoxitin,b
+Cefpodoxime (Vantin),cefpodoxime,b
+Ceftazidime (Fortaz),ceftazidime,b
+Ceftazidime/avibactam (Avicaz),ceftazidime/avibactam,b
+Ceftriaxone (Rocephin),ceftriaxone,b
+Cefuroxime (Ceftin),cefuroxime,b
+Cephalexin (Keflex),cephalexin,b
+Chloramphenicol,chloramphenicol,b
+Cidofovir (Vistide),cidofovir,v
+Clarithromycin (Biaxin),clarithromycin,b
+Clindamycin (Cleocin),clindamycin,b
+Colistimethate (Colistin),colistimethate,b
+Dapsone,dapsone,f
+Daptomycin (Cubicin),daptomycin,b
+Darunavir (Prezista),darunavir,r
+Darunavir/cobicistat (Prezcobix),darunavir/cobicistat,r
+Dicloxacillin,dicloxacillin,b
+Didanosine EC (Videx),didanosine,r
+Dolutegravir (Tivicay),dolutegravir,r
+Doxycycline,doxycycline,b
+Efavirenz (Sustiva),efavirenz,r
+Efavirenz/emtricitabine/tenofovir (Atripla),efavirenz/emtricitabine/tenofovir,r
+Elvitegravir/cobicistat/emtrictabine/tenofovir (Stribild),elvitegravir/cobicistat/emtrictabine/tenofovir,r
+Emtricitabine (Emtriva),emtricitabine,r
+Emtricitabine/rilpivirine/tenofovir (Complera),emtricitabine/rilpivirine/tenofovir,r
+Emtricitabine/tenofovir (Truvada),emtricitabine/tenofovir,r
+Enfuvirtide (Fuzeon),enfuvirtide,r
+Entecavir (Baraclude),entecavir,v
+Erythromycin,erythromycin,b
+Etravirine (Intelence),etravirine,r
+Ethambutol (Myambutol),ethambutol,b
+Fluconazole (Diflucan),fluconazole,f
+Flucytosine (5-FC),flucytosine,f
+Fosamprenavir (Lexiva),fosamprenavir,r
+Foscarnet (Foscavir),foscarnet,v
+Fosfomycin (Monurol),fosfomycin,b
+Ganciclovir,ganciclovir,v
+Gentamicin,gentamicin,b
+Imipenem (Primaxin),imipenem,b
+Indinavir (Crixivan),indinavir,r
+Isavuconazonium sulfate (Cresemba),isavuconazonium,f
+Isoniazid,isoniazid,b
+Itraconazole (Sporanox),itraconazole,f
+Lamivudine (Epivir),lamivudine,v
+Lamivudine HBV (Epivir HBV),lamivudine,v
+Lamivudine/zidovudine (Combivir),lamivudine/zidovudine,r
+Levofloxacin (Levaquin),levofloxacin,b
+Linezolid (Zyvox),linezolid,b
+Lopinavir/ritonavir (Kaletra),lopinavir/ritonavir,r
+Maraviroc (Selzentry),maraviroc,r
+Meropenem (Merrem),meropenem,b
+Metronidazole (Flagyl),metronidazole,b
+Minocycline (Minocin),minocycline,b
+Nafcillin,nafcillin,b
+Nelfinavir (Viracept),nelfinavir,r
+Nevirapine (Viramune),nevirapine,r
+Nitazoxanide (Alinia),nitazoxanide,p
+Nitrofurantoin SR (Macrobid),nitrofurantoin,b
+Nitrofurantion suspension (Furadantin),nitrofurantion,b
+Oseltamivir (Tamiflu),oseltamivir,v
+Penicillin G,penicillin,b
+Penicillin VK,penicillin,b
+Pentamidine,pentamidine,f
+Piperacillin/tazobactam (Zosyn),piperacillin/tazobactam,b
+Posaconazole (Noxafil),posaconazole,f
+Pyrazinamide,pyrazinamide,b
+Pyrimethamine (Daraprim),pyrimethamine,p
+Quinupristin/dalfopristin (Synercid),quinupristin/dalfopristin,b
+Raltegravir (Isentress),raltegravir,r
+Rifabutin (Mycobutin),rifabutin,b
+Rifampin (Rifadin),rifampin,b
+Rifaximin (Xifaxan),rifaximin,b
+Rilpivirine (Edurant),rilpivirine,r
+Ritonavir (Norvir),ritonavir,r
+Saquinavir (Invirase),saquinavir,r
+Stavudine (Zerit),stavudine,r
+Sulfadiazine,sulfadiazine,p
+Telbivudine (Tyzeka),telbivudine,v
+Tenofovir (Viread),tenofovir,v
+Tetracycline,tetracycline,b
+Tigecycline (Tygacil),tigecycline,b
+Tipranavir (Aptivus),tipranavir,r
+Trimethoprim/sulfamethoxazole (TMP/SMX) (Bactrim),trimethoprim/sulfamethoxazole,b
+Tobramycin,tobramycin,b
+Valacyclovir (Valtrex),valacyclovir,v
+Valgancyclovir (Valcyte),valgancyclovir,v
+Vancomycin,vancomycin,b
+Voriconazole PO (Vfend),voriconazole,f
+Voriconazole IV (Vfend),voriconazole,f
+Zidovudine (Retrovir),zidovudine,r
