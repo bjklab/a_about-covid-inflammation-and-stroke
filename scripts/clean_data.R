@@ -23,7 +23,7 @@ lab_dat <- read_csv("../ABOUT-COVID Abstract Data/about_covid_labs_out_20210521.
 
 
 
-#' outcome data 
+#' primary outcome data 
 rc_enc_dat %>%
   #count(encounter_profile_complete)
   filter(encounter_profile_complete == 2) %>%
@@ -34,6 +34,16 @@ rc_enc_dat %>%
   ungroup() %>%
   identity() -> ac_stroke
 ac_stroke
+
+
+
+#' secondary outcome data 
+rc_sub_dat %>%
+  select(subject_id, ams, covid_symp_rash, covid_symp_breathing, covid_symp_fever, covid_symp_diarrhea) %>%
+  mutate_at(.vars = vars(ams, contains("symp")), .funs = ~ .x == 1) %>%
+  identity() -> ac_ams
+ac_ams
+
 
 
 
@@ -131,6 +141,7 @@ ac_meds %>%
 
 #' join data by subject
 ac_stroke %>%
+  left_join(ac_ams, by = "subject_id") %>%
   left_join(ac_demo, by = "subject_id") %>%
   left_join(ac_hx, by = "subject_id") %>%
   left_join(ac_labs, by = "subject_id") %>%
