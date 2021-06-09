@@ -6,7 +6,7 @@ output: html_document
   
 __Title__: Clinical and Laboratory Predictors of Stroke Associated with COVID-19 Disease  
    
-__Authors__: Valerie Bromberg; Hatem O. Abdallah, MD; Leigh Cressman, MS; Pam Tolomeo, MPH; Matthew J. Ziegler, MD, MSCE; Jackie Omorogbe; Keith Hamilton, MD; Ebbing Lautenbach, MD, MPH, MSCE; Michael Z. David, MD, PhD; Brendan J. Kelly, MD, MS for the CDC Prevention Epicenters    
+__Authors__: Valerie Bromberg; Leigh Cressman, MS; Pam Tolomeo, MPH; Hatem O. Abdallah, MD; Alexis Holmes, MD; Jay Garcia, MD; Ashini Patel; Matthew J. Ziegler, MD, MSCE; Jackie Omorogbe; Keith Hamilton, MD; Ebbing Lautenbach, MD, MPH, MSCE; Michael Z. David, MD, PhD; Brendan J. Kelly, MD, MS for the CDC Prevention Epicenters    
    
 __Background__: Although SARS-CoV-2 predominantly targets the respiratory system, it has also been associated with vascular complications including stroke. Identifying COVID-19 patients at elevated risk for stroke can help inform target anticoagulation strategies. We sought to understand how symptoms and laboratory markers at presentation with COVID-19 relate to stroke risk.   
   
